@@ -1,0 +1,4 @@
+module:
+    mounts:
+    - source: "scripts"
+      target: "assets/scripts/engine"
